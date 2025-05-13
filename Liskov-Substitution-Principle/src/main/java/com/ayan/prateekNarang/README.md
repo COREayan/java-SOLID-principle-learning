@@ -1,0 +1,3 @@
+**L - Liskov Substitution Principle**
+- The **Liskov Substitution Principle** states that objects of a superclass should be replaceable with objects of a subclass without altering the correctness of the program. It ensures that a subclass can stand in for its parent class and function correctly in any context that expects the parent class.
+- No client should be forced to depend on methods it doen't use. Split large interfaces into smaller, more specific ones.
