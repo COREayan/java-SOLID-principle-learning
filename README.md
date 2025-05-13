@@ -27,19 +27,15 @@ This repository demonstrates all **5 SOLID principles** in Java with **clean, ea
 - IntelliJ IDEA / VS Code
 - JUnit (optional for testing)
 
-📖 Recommended Reading
-Here are some excellent articles to deepen your understanding of the SOLID principles:
+## 📖 Recommended Reading
 
-🔗 Baeldung – SOLID Principles in Java
+Here are some excellent articles to deepen your understanding of the **SOLID principles**:
 
-🧠 Uncle Bob – Principles of Object-Oriented Design (Archived)
+1. [Baeldung – SOLID Principles in Java](https://www.baeldung.com/solid-principles)  
+2. [Uncle Bob – Principles of Object-Oriented Design (Archived)](https://web.archive.org/web/20230325021224/http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)  
+3. [DigitalOcean – SOLID: The First Five Principles of OOP](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)  
+4. [Medium – SOLID Principles in Pictures](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)  
+5. [freeCodeCamp – SOLID Principles Explained in Plain English](https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/)  
+6. [JRebel – SOLID Principles in Java](https://www.jrebel.com/blog/solid-principles-in-java)  
+7. [Medium – Mastering SOLID Principles (In-Depth Guide)](https://medium.com/@GetInRhythm/mastering-solid-principles-a-comprehensive-guide-for-software-engineers-da53b054c9e1)
 
-📘 DigitalOcean – SOLID: The First Five Principles of OOP
-
-🖼️ Medium – SOLID Principles in Pictures
-
-📝 freeCodeCamp – SOLID Principles Explained in Plain English
-
-☕ JRebel – SOLID Principles in Java
-
-🧩 Medium – Mastering SOLID Principles (In-Depth Guide)
